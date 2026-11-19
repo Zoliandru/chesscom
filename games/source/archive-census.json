@@ -1,0 +1,878 @@
+{
+  "username": "zoliandru",
+  "fetched_at": "2026-11-19T11:39:41+01:00",
+  "timezone": "Europe/Brussels",
+  "api": "https://api.chess.com/pub/player/zoliandru",
+  "note": "Instantané public en lecture seule. Aucun secret.",
+  "archives": [
+    "2023/01",
+    "2023/02",
+    "2023/03",
+    "2023/04",
+    "2023/05",
+    "2023/06",
+    "2023/07",
+    "2023/08",
+    "2023/09",
+    "2023/10",
+    "2023/11",
+    "2023/12",
+    "2024/01",
+    "2024/02",
+    "2024/03",
+    "2024/04",
+    "2024/05",
+    "2024/06",
+    "2024/07",
+    "2025/07",
+    "2025/08",
+    "2025/09",
+    "2025/10",
+    "2025/11",
+    "2025/12",
+    "2026/01",
+    "2026/02",
+    "2026/03",
+    "2026/04",
+    "2026/05",
+    "2026/06",
+    "2026/07",
+    "2026/08",
+    "2026/09",
+    "2026/10",
+    "2026/11"
+  ],
+  "months": [
+    {
+      "games": 104,
+      "by_time_class": {
+        "rapid": 50,
+        "blitz": 29,
+        "daily": 25
+      },
+      "by_rules": {
+        "chess": 104
+      },
+      "by_time_control": {
+        "600": 46,
+        "900+10": 4,
+        "180+2": 3,
+        "180": 22,
+        "1/259200": 3,
+        "300": 4,
+        "1/86400": 22
+      },
+      "by_class_rules": {
+        "rapid|chess": 50,
+        "blitz|chess": 29,
+        "daily|chess": 25
+      },
+      "month": "2023/01"
+    },
+    {
+      "games": 82,
+      "by_time_class": {
+        "blitz": 35,
+        "daily": 46,
+        "rapid": 1
+      },
+      "by_rules": {
+        "chess": 81,
+        "chess960": 1
+      },
+      "by_time_control": {
+        "180": 6,
+        "1/86400": 44,
+        "180+2": 1,
+        "300": 27,
+        "900+10": 1,
+        "1/259200": 2,
+        "300+2": 1
+      },
+      "by_class_rules": {
+        "blitz|chess": 35,
+        "daily|chess": 45,
+        "rapid|chess": 1,
+        "daily|chess960": 1
+      },
+      "month": "2023/02"
+    },
+    {
+      "games": 198,
+      "by_time_class": {
+        "blitz": 127,
+        "daily": 58,
+        "bullet": 4,
+        "rapid": 9
+      },
+      "by_rules": {
+        "chess": 198
+      },
+      "by_time_control": {
+        "300+2": 92,
+        "1/86400": 58,
+        "60": 4,
+        "180+2": 35,
+        "600": 9
+      },
+      "by_class_rules": {
+        "blitz|chess": 127,
+        "daily|chess": 58,
+        "bullet|chess": 4,
+        "rapid|chess": 9
+      },
+      "month": "2023/03"
+    },
+    {
+      "games": 270,
+      "by_time_class": {
+        "rapid": 111,
+        "daily": 8,
+        "blitz": 144,
+        "bullet": 7
+      },
+      "by_rules": {
+        "chess": 270
+      },
+      "by_time_control": {
+        "600": 111,
+        "1/86400": 8,
+        "180+2": 118,
+        "300+2": 13,
+        "60+1": 1,
+        "300": 13,
+        "120+1": 1,
+        "60": 5
+      },
+      "by_class_rules": {
+        "rapid|chess": 111,
+        "daily|chess": 8,
+        "blitz|chess": 144,
+        "bullet|chess": 7
+      },
+      "month": "2023/04"
+    },
+    {
+      "games": 1113,
+      "by_time_class": {
+        "blitz": 60,
+        "bullet": 1039,
+        "rapid": 10,
+        "daily": 4
+      },
+      "by_rules": {
+        "chess": 1113
+      },
+      "by_time_control": {
+        "300": 12,
+        "180+2": 47,
+        "60+1": 994,
+        "60": 15,
+        "600": 10,
+        "1/259200": 1,
+        "180": 1,
+        "120+1": 30,
+        "1/86400": 2,
+        "1/604800": 1
+      },
+      "by_class_rules": {
+        "blitz|chess": 60,
+        "bullet|chess": 1039,
+        "rapid|chess": 10,
+        "daily|chess": 4
+      },
+      "month": "2023/05"
+    },
+    {
+      "games": 562,
+      "by_time_class": {
+        "bullet": 442,
+        "rapid": 8,
+        "blitz": 102,
+        "daily": 10
+      },
+      "by_rules": {
+        "chess": 562
+      },
+      "by_time_control": {
+        "60+1": 427,
+        "120+1": 15,
+        "600": 8,
+        "180+2": 102,
+        "1/86400": 4,
+        "1/604800": 6
+      },
+      "by_class_rules": {
+        "bullet|chess": 442,
+        "rapid|chess": 8,
+        "blitz|chess": 102,
+        "daily|chess": 10
+      },
+      "month": "2023/06"
+    },
+    {
+      "games": 1301,
+      "by_time_class": {
+        "blitz": 65,
+        "bullet": 1223,
+        "daily": 5,
+        "rapid": 8
+      },
+      "by_rules": {
+        "chess": 1301
+      },
+      "by_time_control": {
+        "300+2": 3,
+        "180+2": 62,
+        "60+1": 1217,
+        "1/86400": 3,
+        "600": 8,
+        "1/604800": 2,
+        "60": 1,
+        "120+1": 5
+      },
+      "by_class_rules": {
+        "blitz|chess": 65,
+        "bullet|chess": 1223,
+        "daily|chess": 5,
+        "rapid|chess": 8
+      },
+      "month": "2023/07"
+    },
+    {
+      "games": 933,
+      "by_time_class": {
+        "bullet": 922,
+        "daily": 4,
+        "blitz": 6,
+        "rapid": 1
+      },
+      "by_rules": {
+        "chess": 933
+      },
+      "by_time_control": {
+        "60+1": 911,
+        "120+1": 11,
+        "1/604800": 3,
+        "180+2": 6,
+        "600": 1,
+        "1/86400": 1
+      },
+      "by_class_rules": {
+        "bullet|chess": 922,
+        "daily|chess": 4,
+        "blitz|chess": 6,
+        "rapid|chess": 1
+      },
+      "month": "2023/08"
+    },
+    {
+      "games": 899,
+      "by_time_class": {
+        "bullet": 882,
+        "daily": 9,
+        "blitz": 8
+      },
+      "by_rules": {
+        "chess": 899
+      },
+      "by_time_control": {
+        "60+1": 882,
+        "1/604800": 5,
+        "1/86400": 4,
+        "180+2": 8
+      },
+      "by_class_rules": {
+        "bullet|chess": 882,
+        "daily|chess": 9,
+        "blitz|chess": 8
+      },
+      "month": "2023/09"
+    },
+    {
+      "games": 572,
+      "by_time_class": {
+        "bullet": 566,
+        "daily": 6
+      },
+      "by_rules": {
+        "chess": 572
+      },
+      "by_time_control": {
+        "60+1": 566,
+        "1/259200": 4,
+        "1/604800": 2
+      },
+      "by_class_rules": {
+        "bullet|chess": 566,
+        "daily|chess": 6
+      },
+      "month": "2023/10"
+    },
+    {
+      "games": 591,
+      "by_time_class": {
+        "bullet": 580,
+        "daily": 8,
+        "blitz": 3
+      },
+      "by_rules": {
+        "chess": 591
+      },
+      "by_time_control": {
+        "60+1": 580,
+        "1/259200": 6,
+        "180+2": 3,
+        "1/604800": 2
+      },
+      "by_class_rules": {
+        "bullet|chess": 580,
+        "daily|chess": 8,
+        "blitz|chess": 3
+      },
+      "month": "2023/11"
+    },
+    {
+      "games": 1068,
+      "by_time_class": {
+        "bullet": 1029,
+        "blitz": 28,
+        "rapid": 8,
+        "daily": 3
+      },
+      "by_rules": {
+        "chess": 1068
+      },
+      "by_time_control": {
+        "60+1": 994,
+        "180+2": 28,
+        "600": 8,
+        "1/604800": 2,
+        "120+1": 35,
+        "1/259200": 1
+      },
+      "by_class_rules": {
+        "bullet|chess": 1029,
+        "blitz|chess": 28,
+        "rapid|chess": 8,
+        "daily|chess": 3
+      },
+      "month": "2023/12"
+    },
+    {
+      "games": 771,
+      "by_time_class": {
+        "bullet": 766,
+        "daily": 1,
+        "rapid": 1,
+        "blitz": 3
+      },
+      "by_rules": {
+        "chess": 771
+      },
+      "by_time_control": {
+        "60+1": 766,
+        "1/259200": 1,
+        "1800": 1,
+        "180+2": 3
+      },
+      "by_class_rules": {
+        "bullet|chess": 766,
+        "daily|chess": 1,
+        "rapid|chess": 1,
+        "blitz|chess": 3
+      },
+      "month": "2024/01"
+    },
+    {
+      "games": 607,
+      "by_time_class": {
+        "bullet": 598,
+        "daily": 8,
+        "blitz": 1
+      },
+      "by_rules": {
+        "chess": 607
+      },
+      "by_time_control": {
+        "60+1": 598,
+        "1/259200": 8,
+        "180+2": 1
+      },
+      "by_class_rules": {
+        "bullet|chess": 598,
+        "daily|chess": 8,
+        "blitz|chess": 1
+      },
+      "month": "2024/02"
+    },
+    {
+      "games": 407,
+      "by_time_class": {
+        "bullet": 402,
+        "daily": 4,
+        "blitz": 1
+      },
+      "by_rules": {
+        "chess": 407
+      },
+      "by_time_control": {
+        "60+1": 402,
+        "1/259200": 4,
+        "180+2": 1
+      },
+      "by_class_rules": {
+        "bullet|chess": 402,
+        "daily|chess": 4,
+        "blitz|chess": 1
+      },
+      "month": "2024/03"
+    },
+    {
+      "games": 645,
+      "by_time_class": {
+        "bullet": 633,
+        "daily": 5,
+        "blitz": 2,
+        "rapid": 5
+      },
+      "by_rules": {
+        "chess": 645
+      },
+      "by_time_control": {
+        "60+1": 633,
+        "1/259200": 5,
+        "180+2": 2,
+        "600": 5
+      },
+      "by_class_rules": {
+        "bullet|chess": 633,
+        "daily|chess": 5,
+        "blitz|chess": 2,
+        "rapid|chess": 5
+      },
+      "month": "2024/04"
+    },
+    {
+      "games": 514,
+      "by_time_class": {
+        "bullet": 502,
+        "daily": 4,
+        "blitz": 8
+      },
+      "by_rules": {
+        "chess": 514
+      },
+      "by_time_control": {
+        "60+1": 502,
+        "1/259200": 2,
+        "180+2": 8,
+        "1/86400": 2
+      },
+      "by_class_rules": {
+        "bullet|chess": 502,
+        "daily|chess": 4,
+        "blitz|chess": 8
+      },
+      "month": "2024/05"
+    },
+    {
+      "games": 836,
+      "by_time_class": {
+        "bullet": 820,
+        "daily": 9,
+        "rapid": 3,
+        "blitz": 4
+      },
+      "by_rules": {
+        "chess": 836
+      },
+      "by_time_control": {
+        "60+1": 820,
+        "1/259200": 3,
+        "1/86400": 6,
+        "600": 3,
+        "180+2": 4
+      },
+      "by_class_rules": {
+        "bullet|chess": 820,
+        "daily|chess": 9,
+        "rapid|chess": 3,
+        "blitz|chess": 4
+      },
+      "month": "2024/06"
+    },
+    {
+      "games": 92,
+      "by_time_class": {
+        "bullet": 92
+      },
+      "by_rules": {
+        "chess": 92
+      },
+      "by_time_control": {
+        "60+1": 92
+      },
+      "by_class_rules": {
+        "bullet|chess": 92
+      },
+      "month": "2024/07"
+    },
+    {
+      "games": 860,
+      "by_time_class": {
+        "blitz": 841,
+        "bullet": 11,
+        "rapid": 5,
+        "daily": 3
+      },
+      "by_rules": {
+        "chess": 860
+      },
+      "by_time_control": {
+        "180": 762,
+        "120+1": 3,
+        "300": 79,
+        "600": 5,
+        "1/86400": 2,
+        "60": 2,
+        "1/259200": 1,
+        "60+1": 6
+      },
+      "by_class_rules": {
+        "blitz|chess": 841,
+        "bullet|chess": 11,
+        "rapid|chess": 5,
+        "daily|chess": 3
+      },
+      "month": "2025/07"
+    },
+    {
+      "games": 576,
+      "by_time_class": {
+        "bullet": 18,
+        "blitz": 556,
+        "daily": 2
+      },
+      "by_rules": {
+        "chess": 576
+      },
+      "by_time_control": {
+        "60+1": 14,
+        "180": 546,
+        "300": 10,
+        "1/259200": 2,
+        "60": 4
+      },
+      "by_class_rules": {
+        "bullet|chess": 18,
+        "blitz|chess": 556,
+        "daily|chess": 2
+      },
+      "month": "2025/08"
+    },
+    {
+      "games": 543,
+      "by_time_class": {
+        "blitz": 513,
+        "bullet": 25,
+        "daily": 4,
+        "rapid": 1
+      },
+      "by_rules": {
+        "chess": 543
+      },
+      "by_time_control": {
+        "180": 123,
+        "60": 1,
+        "180+2": 378,
+        "1/86400": 4,
+        "600": 1,
+        "300": 12,
+        "60+1": 24
+      },
+      "by_class_rules": {
+        "blitz|chess": 513,
+        "bullet|chess": 25,
+        "daily|chess": 4,
+        "rapid|chess": 1
+      },
+      "month": "2025/09"
+    },
+    {
+      "games": 75,
+      "by_time_class": {
+        "blitz": 75
+      },
+      "by_rules": {
+        "chess": 75
+      },
+      "by_time_control": {
+        "180+2": 74,
+        "300": 1
+      },
+      "by_class_rules": {
+        "blitz|chess": 75
+      },
+      "month": "2025/10"
+    },
+    {
+      "games": 27,
+      "by_time_class": {
+        "blitz": 27
+      },
+      "by_rules": {
+        "chess": 27
+      },
+      "by_time_control": {
+        "180+2": 26,
+        "300": 1
+      },
+      "by_class_rules": {
+        "blitz|chess": 27
+      },
+      "month": "2025/11"
+    },
+    {
+      "games": 2,
+      "by_time_class": {
+        "blitz": 1,
+        "bullet": 1
+      },
+      "by_rules": {
+        "chess": 2
+      },
+      "by_time_control": {
+        "180+2": 1,
+        "60+1": 1
+      },
+      "by_class_rules": {
+        "blitz|chess": 1,
+        "bullet|chess": 1
+      },
+      "month": "2025/12"
+    },
+    {
+      "games": 18,
+      "by_time_class": {
+        "blitz": 17,
+        "daily": 1
+      },
+      "by_rules": {
+        "chess": 18
+      },
+      "by_time_control": {
+        "180+2": 6,
+        "1/259200": 1,
+        "300": 11
+      },
+      "by_class_rules": {
+        "blitz|chess": 17,
+        "daily|chess": 1
+      },
+      "month": "2026/01"
+    },
+    {
+      "games": 251,
+      "by_time_class": {
+        "blitz": 189,
+        "bullet": 62
+      },
+      "by_rules": {
+        "chess": 251
+      },
+      "by_time_control": {
+        "300": 130,
+        "120+1": 62,
+        "180+2": 59
+      },
+      "by_class_rules": {
+        "blitz|chess": 189,
+        "bullet|chess": 62
+      },
+      "month": "2026/02"
+    },
+    {
+      "games": 392,
+      "by_time_class": {
+        "blitz": 392
+      },
+      "by_rules": {
+        "chess": 392
+      },
+      "by_time_control": {
+        "180+2": 392
+      },
+      "by_class_rules": {
+        "blitz|chess": 392
+      },
+      "month": "2026/03"
+    },
+    {
+      "games": 336,
+      "by_time_class": {
+        "blitz": 302,
+        "bullet": 34
+      },
+      "by_rules": {
+        "chess": 336
+      },
+      "by_time_control": {
+        "180+2": 302,
+        "60+1": 34
+      },
+      "by_class_rules": {
+        "blitz|chess": 302,
+        "bullet|chess": 34
+      },
+      "month": "2026/04"
+    },
+    {
+      "games": 326,
+      "by_time_class": {
+        "blitz": 326
+      },
+      "by_rules": {
+        "chess": 326
+      },
+      "by_time_control": {
+        "180+2": 326
+      },
+      "by_class_rules": {
+        "blitz|chess": 326
+      },
+      "month": "2026/05"
+    },
+    {
+      "games": 335,
+      "by_time_class": {
+        "blitz": 335
+      },
+      "by_rules": {
+        "chess": 335
+      },
+      "by_time_control": {
+        "180+2": 335
+      },
+      "by_class_rules": {
+        "blitz|chess": 335
+      },
+      "month": "2026/06"
+    },
+    {
+      "games": 198,
+      "by_time_class": {
+        "blitz": 189,
+        "bullet": 9
+      },
+      "by_rules": {
+        "chess": 198
+      },
+      "by_time_control": {
+        "180+2": 189,
+        "120+1": 9
+      },
+      "by_class_rules": {
+        "blitz|chess": 189,
+        "bullet|chess": 9
+      },
+      "month": "2026/07"
+    },
+    {
+      "games": 318,
+      "by_time_class": {
+        "blitz": 316,
+        "daily": 2
+      },
+      "by_rules": {
+        "chess": 318
+      },
+      "by_time_control": {
+        "180+2": 316,
+        "1/259200": 2
+      },
+      "by_class_rules": {
+        "blitz|chess": 316,
+        "daily|chess": 2
+      },
+      "month": "2026/08"
+    },
+    {
+      "games": 253,
+      "by_time_class": {
+        "blitz": 251,
+        "daily": 2
+      },
+      "by_rules": {
+        "chess": 253
+      },
+      "by_time_control": {
+        "180+2": 251,
+        "1/259200": 2
+      },
+      "by_class_rules": {
+        "blitz|chess": 251,
+        "daily|chess": 2
+      },
+      "month": "2026/09"
+    },
+    {
+      "games": 199,
+      "by_time_class": {
+        "blitz": 196,
+        "rapid": 3
+      },
+      "by_rules": {
+        "chess": 196,
+        "oddschess": 3
+      },
+      "by_time_control": {
+        "180+2": 196,
+        "1800": 1,
+        "1200": 2
+      },
+      "by_class_rules": {
+        "blitz|chess": 195,
+        "rapid|chess": 1,
+        "blitz|oddschess": 1,
+        "rapid|oddschess": 2
+      },
+      "month": "2026/10"
+    },
+    {
+      "games": 43,
+      "by_time_class": {
+        "blitz": 43
+      },
+      "by_rules": {
+        "chess": 43
+      },
+      "by_time_control": {
+        "180+2": 43
+      },
+      "by_class_rules": {
+        "blitz|chess": 43
+      },
+      "month": "2026/11"
+    }
+  ],
+  "pgn_written": {
+    "2026/08": {
+      "file": "games/pgn/2026-08.pgn",
+      "games": 316
+    },
+    "2026/09": {
+      "file": "games/pgn/2026-09.pgn",
+      "games": 251
+    },
+    "2026/10": {
+      "file": "games/pgn/2026-10.pgn",
+      "games": 196
+    },
+    "2026/11": {
+      "file": "games/pgn/2026-11.pgn",
+      "games": 43
+    }
+  },
+  "census_complete": true
+}
