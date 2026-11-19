@@ -1,0 +1,16 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/220316527.46e66755.200x200o.b20553bcb978.jpg",
+  "player_id": 220316527,
+  "@id": "https://api.chess.com/pub/player/zoliandru",
+  "url": "https://www.chess.com/member/Zoliandru",
+  "username": "zoliandru",
+  "followers": 10,
+  "country": "https://api.chess.com/pub/country/BE",
+  "last_online": 1795083566,
+  "joined": 1672865965,
+  "status": "basic",
+  "is_streamer": false,
+  "verified": false,
+  "league": "Legend",
+  "streaming_platforms": []
+}

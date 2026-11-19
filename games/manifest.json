@@ -1,0 +1,29 @@
+{
+  "username": "zoliandru",
+  "fetched_at": "2026-11-19T11:39:41+01:00",
+  "timezone": "Europe/Brussels",
+  "pgn_months": {
+    "2026/08": {
+      "file": "games/pgn/2026-08.pgn",
+      "games": 316
+    },
+    "2026/09": {
+      "file": "games/pgn/2026-09.pgn",
+      "games": 251
+    },
+    "2026/10": {
+      "file": "games/pgn/2026-10.pgn",
+      "games": 196
+    },
+    "2026/11": {
+      "file": "games/pgn/2026-11.pgn",
+      "games": 43
+    }
+  },
+  "index_games": 806,
+  "source": {
+    "profile": "games/source/profile.json",
+    "stats": "games/source/stats.json",
+    "census": "games/source/archive-census.json"
+  }
+}
